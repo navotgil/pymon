@@ -35,7 +35,6 @@ Clone the project and make sure you have all of the tools below installed.
 2. cd into the folder.
 3. clone this repository
     ```
-    git init
     git clone https://github.com/navotgil/pymon
     ```
 4. run pip and install the required libraries
